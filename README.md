@@ -1,3 +1,7 @@
-# NIAKMAJR'S WEBSITE
+# Hi
 
-Welcome to this very useless website. Maybe there will be more content in the future.
+Welcome! This is the official website of the official project of the official NiakmaJr.
+
+## PROJECTS IN CREATION :
+
+CoolBot- A super discord bot that does nothing useful

@@ -43,4 +43,4 @@ Ensuite, saisissez la commande ```/create-compo (le channel vocal) (le channel o
 Cette commande va répartir les roles aléatoirement entre les joueurs, leur envoyer le role en dm, et envoyez pour chaque joueur un message dans le channel MJ. 
 Dans le channel MJ, vous pouvez clicker sur le bouton de chaque message pour marquer un joueur comme mort(la réaction indique si il est en vie ou mort[NE PAS TOUCHER LA REACTION]).
 
-[Autres commandes](commands.md)
+[Autres commandes](commands.html)

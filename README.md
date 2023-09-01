@@ -3,7 +3,7 @@
 
 
 
-Attention, le bot sert seulement a faciliter le travail du MJ. IL NE LE REMPLACE PAS
+### Attention, le bot sert seulement a faciliter le travail du MJ. IL NE LE REMPLACE PAS
 
 ## Créer une partie
 
@@ -40,9 +40,19 @@ Aura : neutre
 ```
 
 Ensuite, saisissez la commande 
-```/create-compo (le channel vocal) (le channel ou vous avez fait la compo) (le channel du mj(accessible seulement par lui))```
+```
+/create-compo (le channel vocal) (le channel ou vous avez fait la compo) (le channel du mj(accessible seulement par lui))
+```
 Cette commande va répartir les roles aléatoirement entre les joueurs, leur envoyer le role en dm, et envoyez pour chaque joueur un message dans le channel MJ. 
 
 Dans le channel MJ, vous pouvez clicker sur le bouton de chaque message pour marquer un joueur comme mort(la réaction indique si il est en vie ou mort[NE PAS TOUCHER LA REACTION]).
+
+# Lancez le vote de la journée
+
+Pour lancer le vote de la journée, il suffit juste de saisir la commande : 
+```
+/launch-vote (le channel vocal ou se trouve les joueurs) (le channel texte)
+```
+Cela va envoyer un message pour chaque joueur et permettre a tout le monde de voter. En dessous de chaque message il y a un bouton pour envoyer le joueur au tribunal pour qu'il soit jugé (mort/vie)
 
 [Autres commandes](commands.html)
